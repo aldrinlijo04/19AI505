@@ -30,8 +30,8 @@ def policy_improvement(V, P, gamma=1.0):
     return new_pi
 ```
 ## POLICY ITERATION FUNCTION
-#### Name: Ronick Aakshath P
-#### Register Number: 212222240084
+#### Name: Aldrin Lijo J E
+#### Register Number: 212222240007
 ```python
 def policy_iteration(P, gamma=1.0, theta=1e-10):
    random_actions=np.random.choice(tuple(P[0].keys()),len(P))
